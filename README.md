@@ -8,7 +8,7 @@ Galaxies are vast and come in various shapes and sizes, from beautiful spirals t
 
 ### Model Details
 
-- **CNN Architecture**: Modified LeNet-5
+- **CNN Architecture**: Modified LeNet-5 - https://alexlenail.me/NN-SVG/LeNet.html
 - **Dataset Used**:
   - Training and validation: [Galaxy10](https://astro.utoronto.ca/~hleung/shared/Galaxy10/Galaxy10_DECals.h5)
   - Testing and real-world predictions: [Galaxy Zoo from Kaggle](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data)
